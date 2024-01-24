@@ -1,0 +1,2 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/19 - 17:56:53.829	[31merror[0m	/home/my_project/go_learn/gin-vue-admin/server/api/v1/system/sys_user.go:56	登陆失败! 用户名不存在或者密码错误!	{"error": "db not init"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/19 - 18:23:05.833	[31merror[0m	/home/my_project/go_learn/gin-vue-admin/server/core/server.go:53	accept tcp [::]:8888: use of closed network connection

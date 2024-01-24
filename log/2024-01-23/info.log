@@ -1,0 +1,29 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 15:30:03.777	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/gorm.go:62	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 15:30:03.779	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:50	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 15:30:03.780	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:87	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 15:30:03.780	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/core/server.go:41	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 15:44:06.905	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/api/v1/system/sys_initdb.go:57	数据库无需初始化
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 15:44:08.805	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/api/v1/system/sys_initdb.go:57	数据库无需初始化
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 15:44:34.636	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/api/v1/system/sys_initdb.go:57	数据库无需初始化
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 15:48:25.346	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/gorm.go:62	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 15:48:25.347	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:50	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 15:48:25.348	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:87	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 15:48:25.348	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/core/server.go:41	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 16:04:11.812	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/api/v1/system/sys_initdb.go:57	数据库无需初始化
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 16:51:55.024	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/gorm.go:62	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 16:51:55.025	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:50	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 16:51:55.028	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:87	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 16:51:55.028	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/core/server.go:41	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 16:59:12.449	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/gorm.go:62	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 16:59:12.450	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:50	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 16:59:12.452	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:87	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 16:59:12.452	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/core/server.go:41	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 17:22:40.912	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/gorm.go:62	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 17:22:40.913	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:50	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 17:22:40.915	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:87	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 17:22:40.915	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/core/server.go:41	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 20:14:16.644	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/gorm.go:62	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 20:14:16.648	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:50	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 20:14:16.658	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:87	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 20:14:16.658	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/core/server.go:41	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/23 - 20:14:28.049	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/api/v1/system/sys_initdb.go:57	数据库无需初始化

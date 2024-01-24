@@ -1,0 +1,57 @@
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 08:40:44.996	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/gorm.go:59	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 08:40:44.998	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:49	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 08:40:45.001	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:85	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 08:40:45.001	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/core/server.go:41	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 10:23:37.623	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/gorm.go:62	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 10:23:37.625	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:49	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 10:23:37.630	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:85	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 10:23:37.630	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/core/server.go:41	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 10:27:26.259	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/gorm.go:62	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 10:27:26.260	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:49	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 10:27:26.261	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:85	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 10:27:26.262	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/core/server.go:41	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 10:28:41.750	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/gorm.go:62	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 10:28:41.751	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:49	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 10:28:41.753	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:85	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 10:28:41.753	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/core/server.go:41	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 13:51:45.788	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/gorm.go:62	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 13:51:45.790	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:49	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 13:51:45.792	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:85	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 13:51:45.792	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/core/server.go:41	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 14:00:31.186	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/gorm.go:62	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 14:00:31.187	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:49	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 14:00:31.190	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:85	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 14:00:31.190	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/core/server.go:41	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 15:31:59.744	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/gorm.go:62	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 15:31:59.746	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:50	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 15:31:59.749	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:87	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 15:31:59.749	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/core/server.go:41	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 15:38:02.615	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/gorm.go:62	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 15:38:02.616	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:50	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 15:38:02.618	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:87	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 15:38:02.618	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/core/server.go:41	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 15:47:35.706	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/gorm.go:62	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 15:47:35.708	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:50	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 15:47:35.709	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:87	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 15:47:35.710	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/core/server.go:41	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 16:01:46.958	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/api/v1/system/sys_initdb.go:57	数据库无需初始化
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 20:55:03.873	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/gorm.go:62	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 20:55:03.874	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:50	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 20:55:03.875	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:87	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 20:55:03.875	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/core/server.go:41	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 22:32:03.604	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/gorm.go:62	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 22:32:03.607	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:50	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 22:33:08.933	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/gorm.go:62	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 22:33:08.934	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:50	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 22:35:09.153	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/gorm.go:62	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 22:35:09.154	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:50	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 22:35:09.156	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:87	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 22:35:09.157	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/core/server.go:41	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 23:12:10.296	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/gorm.go:62	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 23:12:10.298	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:50	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 23:12:10.300	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:87	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 23:12:10.300	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/core/server.go:41	server run success on 	{"address": ":8888"}
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 23:32:18.660	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/gorm.go:62	register table success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 23:32:18.661	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:50	register swagger handler
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 23:32:18.663	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/initialize/router.go:87	router register success
+[github.com/flipped-aurora/gin-vue-admin/server]2024/01/20 - 23:32:18.663	[34minfo[0m	/home/my_project/go_learn/gin-vue-admin/server/core/server.go:41	server run success on 	{"address": ":8888"}
